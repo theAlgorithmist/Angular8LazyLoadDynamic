@@ -1,0 +1,25 @@
+{
+  "layout": [
+    {
+      "component": "component2",
+      "data": {
+        "id": 2,
+        "title": "Dynamic Component #2"
+      }
+    },
+    {
+      "component": "component3",
+      "data": {
+        "id": 3,
+        "title": "Dynamic Component #3"
+      }
+    },
+    {
+      "component": "component1",
+      "data": {
+        "id": 1,
+        "title": "Dynamic Component #1"
+      }
+    }
+  ]
+}
