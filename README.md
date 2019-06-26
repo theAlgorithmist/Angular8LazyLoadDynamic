@@ -1,6 +1,6 @@
 # Editing Tabular Data In Angular
 
-This is the code base for the Medium article, _Dynamic Component Generation in Lazy-Loaded Routes_ (insert url).
+This is the code base for the Medium article, [Dynamic Component Generation in Lazy-Loaded Routes](https://medium.com/ngconf/dynamic-component-generation-in-lazy-loaded-routes-d2e0f9e89c57).
 
  
 Author:  Jim Armstrong - [The Algorithmist](http://www.algorithmist.net)
